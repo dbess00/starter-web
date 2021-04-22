@@ -8,8 +8,10 @@ Into text here...
 
 ## Purpose
 
-Sample website with plenty of files for demos...
+Sample website with plenty of files for demos. Indeed!
 
 ## Deployment
+
+Depolyment can be on any web server.
 
 ## How To Contribute
