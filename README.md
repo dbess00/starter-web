@@ -16,6 +16,7 @@ Depolyment can be on any web server.
 
 ## How To Contribute
 
+Fork this repo, then issue Pull request for review
 
 ### Cpoyright
 
