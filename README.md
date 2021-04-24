@@ -15,3 +15,8 @@ Sample website with plenty of files for demos. Indeed!
 Depolyment can be on any web server.
 
 ## How To Contribute
+
+
+### Cpoyright
+
+2021Git.Training
