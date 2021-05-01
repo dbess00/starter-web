@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Change made in feature branch!
 
 # TECHNOLOGY COLOPHON
 
