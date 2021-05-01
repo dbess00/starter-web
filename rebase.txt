@@ -1,1 +1,3 @@
 I'm in master now. Ok, now I'm in test and about to rebase to master!
+
+Ok, so that was cool. Now we gonna try somthing else...
