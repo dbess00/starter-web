@@ -20,4 +20,4 @@ Fork this repo, then issue Pull request for review
 
 ### Cpoyright
 
-2021Git.Training
+2021Git.Training. All rights reserved.
